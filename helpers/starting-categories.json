@@ -1,0 +1,32 @@
+ [
+   {
+      "name": "Nike",
+      "slug": "nike-collection"
+      
+    },
+   {
+      "name": "Converse",
+      "slug": "converse-collection"
+     
+    },
+   {
+      "name": "Puma",
+      "slug": "puma-collection"
+     
+    },
+   {
+      "name": "Addidas",
+      "slug": "addidas-collection"
+      
+    },
+   {
+      "name": "Jordan",
+      "slug": "jordan-collection"
+       
+    },
+   {
+      "name": "Reebok",
+      "slug": "reebok-collection"
+       
+    }
+]

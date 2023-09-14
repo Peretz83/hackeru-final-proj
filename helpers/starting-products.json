@@ -1,0 +1,79 @@
+[
+  
+   {
+      "name": "Nike Air Force 1 Low ",
+      "slug": "nike-air-force-1-low",
+      "description": "The iconic Nike Air Force 1 Low in classic blue colorway. A timeless sneaker that goes well with any outfit.",
+      "price": 120,
+      "category": "Nike",
+      "quantity": 53,
+      "photo": "https://images.unsplash.com/photo-1549298916-b41d501d3772?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8TmlrZSUyMHNob2V8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+      "shipping": true
+      
+    },
+     
+  
+     {
+    "name": "Air Jordan 13 Retro",
+    "slug": "air-jordan-13-retro",
+    "description": "Sleek Air Jordan 13 Retro sneakers for a sporty look.",
+    "price": 249.99,
+    "category": "Jordan",
+    "quantity": 55,
+    "photo": "https://images.unsplash.com/photo-1533681018184-68bd1d883b97?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YWlyJTIwam9yZGFuJTIwMTN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+    "shipping": false
+    
+  },
+    {
+    "name": "Reebok Classic Leather Sneakers",
+    "slug": "classic-leather-sneakers",
+    "description": "Iconic Reebok Classic Leather sneakers for a timeless look.",
+    "price": 79,
+    "category": "Reebok",
+    "quantity": 50,
+    "photo": "https://images.unsplash.com/photo-1598144112872-06be425d3c14?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDJ8fFJlZWJvayUyMHNob2V8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+    "shipping": true
+  
+  },
+  
+ 
+     {
+    "name": "Adidas Ultraboost 21 Running Shoes",
+    "slug": "ultraboost-21-running-shoes",
+    "description": "High-performance Adidas Ultraboost 21 running shoes for athletes.",
+    "price": 179.99,
+    "category": "Addidas",
+    "quantity": 50,
+    "photo": "https://images.unsplash.com/photo-1593287073863-c992914cb3e3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8YWRpZGFzJTIwc2hvZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "shipping": true
+  
+  },
+  
+    {
+      "name": "Puma Exotek Nitro",
+      "slug": "puma-exotek-nitro-running",
+      "description": "The newsest style from Puma, perfect for all seasons.",
+      "price": 110.00,
+      "category": "Puma",
+      "quantity": 15,
+      "photo": "https://images.unsplash.com/photo-1608380272894-b3617f04b463?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8UHVtYSUyMHNob2V8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+      "shipping": true
+      
+    },
+     
+   
+ {
+    "name": "Converse Chuck Taylor All Star High Top",
+    "slug": "chuck-taylor-all-star-high-top",
+    "description": "High-top Converse Chuck Taylor All Star sneakers for a classic look.",
+    "price": 59,
+    "category": "Converse",
+    "quantity": 20,
+    "photo": "https://images.unsplash.com/photo-1527128296579-fce16948f060?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzR8fENvbnZlcnNlJTIwc2hvZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "shipping": true
+  
+  }
+  
+   
+   
+]
